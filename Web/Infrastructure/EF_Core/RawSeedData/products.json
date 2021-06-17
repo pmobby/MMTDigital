@@ -1,0 +1,73 @@
+[
+  {
+    "SKU": "100000BBTLLL",
+    "Name": "Bed",
+    "Description": "Mattress for sleepin.",
+    "Price": 200,
+    "CategoryId": 1
+  },
+  {
+    "SKU": "100000BBTLLL",
+    "Name": "Lamp",
+    "Description": "Lighting for the home.",
+    "Price": 50,
+    "CategoryId": 1
+  },
+  {
+    "SKU": "200000BBTLLL",
+    "Name": "Spade",
+    "Description": "Used for the garden.",
+    "Price": 60,
+    "CategoryId": 2
+  },
+  {
+    "SKU": "200000BBTLLL",
+    "Name": "Garden Fork",
+    "Description": "Used for tilling the soil.",
+    "Price": 20,
+    "CategoryId": 2
+  },
+  {
+    "SKU": "300000BBTLLL",
+    "Name": "TV",
+    "Description": "LCD Smart TV.",
+    "Price": 800,
+    "CategoryId": 3
+  },
+  {
+    "SKU": "300000BBTLLL",
+    "Name": "Speaker",
+    "Description": "Home speaker.",
+    "Price": 300,
+    "CategoryId": 3
+  },
+  {
+    "SKU": "400000BBTLLL",
+    "Name": "Dumbells",
+    "Description": "Used for exercising.",
+    "Price": 20,
+    "CategoryId": 4
+  },
+  {
+    "SKU": "400000BBTLLL",
+    "Name": "Mats",
+    "Description": "Exercise mats.",
+    "Price": 70,
+    "CategoryId": 4
+  },
+  {
+    "SKU": "500000BBTLLL",
+    "Name": "Mini Buzzyear",
+    "Description": "Action figure toy.",
+    "Price": 60,
+    "CategoryId": 5
+  },
+  {
+    "SKU": "500000BBTLLL",
+    "Name": "Race car",
+    "Description": "Toy for race cars.",
+    "Price": 45,
+    "CategoryId": 5
+  }
+
+]
